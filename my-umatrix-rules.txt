@@ -191,6 +191,7 @@ microsoft.com msecnd.net * allow
 microsoft.com s-microsoft.com * allow
 microsoft.com statics-uhf-wus.akamaized.net * allow
 microsoftonline.com microsoftonline-p.com * allow
+microsoftonline.com visualstudio.com * allow
 mother4game.com cdnjs.cloudflare.com script allow
 mother4game.com w.soundcloud.com frame allow
 nbcolympics.com geo.nbcsports.com * inherit
