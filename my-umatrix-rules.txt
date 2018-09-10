@@ -372,6 +372,7 @@ steampowered.com akamaihd.net * allow
 streamable.com cf-e2.streamablevideo.com media allow
 streamable.com v.embedcdn.com script allow
 superuser.com gravatar.com * allow
+superuser.com imgur.com * allow
 superuser.com sstatic.net * allow
 superuser.com stackexchange.com * allow
 target.com google.com * allow
