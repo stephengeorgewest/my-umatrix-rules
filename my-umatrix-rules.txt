@@ -5,6 +5,7 @@ matrix-off: chrome-extension-scheme true
 matrix-off: chrome-scheme true
 matrix-off: moz-extension-scheme true
 matrix-off: opera-scheme true
+matrix-off: vivaldi-scheme true
 matrix-off: wyciwyg-scheme true
 noscript-spoof: * true
 referrer-spoof: * true
@@ -356,6 +357,9 @@ microsoftonline.com microsoftonline-p.com * allow
 microsoftonline.com msauth.net * allow
 microsoftonline.com msftauth.net * allow
 microsoftonline.com visualstudio.com * allow
+mobileread.com google.com * allow
+mobileread.com gstatic.com * allow
+mobileread.com speedyrails.net * allow
 monoprice.com d21gpk1vhmjuf5.cloudfront.net * allow
 monoprice.com turnto.com * allow
 mother4game.com cdnjs.cloudflare.com script allow
