@@ -183,6 +183,7 @@ bestbuy.com google.com * allow
 bestbuy.com img-ssl.bbystatic.com script allow
 bestbuy.com img.bbystatic.com script allow
 bestbuy.com truste.com * allow
+bitbucket.org d301sr5gafysq2.cloudfront.net * allow
 bleepingcomputer.com bleepstatic.com * allow
 blogger.com googleusercontent.com * allow
 blogger.com i18n-cloud.appspot.com * allow
@@ -268,6 +269,8 @@ geo-fs.com cesiumjs.org * allow
 geo-fs.com google.com frame allow
 geo-fs.com maps.googleapis.com * allow
 geo-fs.com virtualearth.net * allow
+getpocket.com cdn-apple.com * allow
+getpocket.com google.com * allow
 gfycat.com cdn.ampproject.org * allow
 github.com avatars0.githubusercontent.com * allow
 github.com collector.githubapp.com image allow
@@ -359,6 +362,8 @@ microsoftonline.com msftauth.net * allow
 microsoftonline.com visualstudio.com * allow
 mobileread.com google.com * allow
 mobileread.com gstatic.com * allow
+mobileread.com mobileread.cdn.speedyrails.net * allow
+mobileread.com mobileread.org * allow
 mobileread.com speedyrails.net * allow
 monoprice.com d21gpk1vhmjuf5.cloudfront.net * allow
 monoprice.com turnto.com * allow
@@ -433,6 +438,7 @@ reddit.com embedly.com frame allow
 reddit.com pixel.redditmedia.com * inherit
 reddit.com px.gfycat.com image allow
 reddit.com redd.it * allow
+reddit.com reddit-uploaded-media.s3-accelerate.amazonaws.com xhr allow
 reddit.com redditmedia.com * allow
 reddit.com redditstatic.com * allow
 reddit.com www.redditmedia.com * allow
@@ -455,7 +461,15 @@ smartthings.com discourse-cdn.com * allow
 sourceforge.net a.fsdn.com script allow
 sourceforge.net snap.licdn.com script allow
 spotify.com scdn.co * allow
+stackexchange.com ajax.googleapis.com * allow
+stackexchange.com askubuntu.com * allow
 stackexchange.com cdn.sstatic.net script allow
+stackexchange.com mathoverflow.net * allow
+stackexchange.com serverfault.com * allow
+stackexchange.com sstatic.net * allow
+stackexchange.com stackapps.com * allow
+stackexchange.com stackoverflow.com * allow
+stackexchange.com superuser.com * allow
 stackoverflow.com sstatic.net * allow
 staples.com staples-3p.com * allow
 staples.com staples-static.com * allow
@@ -483,6 +497,11 @@ tumblr.com safe.txmblr.com frame allow
 tumblr.com scontent-lax3-2.cdninstagram.com media allow
 tumblr.com txmblr.com * allow
 tumblr.com www.instagram.com frame allow
+tvheadend.org google.com * allow
+tvheadend.org google.com frame allow
+tvheadend.org gstatic.com * allow
+tvheadend.org imgur.com * allow
+tvheadend.org recaptcha.net * allow
 ubisoft.com akamaihd.net * allow
 ubisoft.com akamaized.net * allow
 ubisoft.com ubi.com * allow
@@ -509,6 +528,8 @@ wikia.com slot1-images.wikia.nocookie.net script allow
 wikia.com www.adumen.com xhr allow
 womenshealthmag.com hearstapps.com * allow
 wordpress.com wp.com * allow
+xda-developers.com algolia.net * allow
+xda-developers.com dsh7ky7308k4b.cloudfront.net script allow
 xda-developers.com reactrjs.com * allow
 xda-developers.com www.adollo.com xhr allow
 xda-developers.com xda-cdn.com * allow
